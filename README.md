@@ -4,11 +4,12 @@ Product Analyst with **10+ years** in e-commerce & food retail. I turn product q
 
 **Highlights**
 - **100+ experiments**: hypothesis → metrics → analysis → rollout
-- Built BI from scratch: **Airflow → Superset**, reusable metric layers & reporting automation
-- Strong in SQL + Python for analytics and large-scale data processing
+- Built BI from scratch: ETL (Raw data  --> Airflow --> Pretty tables) --> BI, reusable metric layers & reporting automation;
+- Strong in SQL + Python for analytics and large-scale data processing;
+- Millions of ad-hoc, research and documentations layers.
 
 **Stack**
-SQL (PostgreSQL/ClickHouse/Greenplum/Hive), Python, BI (Superset/Qlik Sense/PowerBI/Tableau), Git, Jira/Confluence, Linux/Bash
+SQL (PostgreSQL/ClickHouse/Greenplum/Hive), Python, BI (Superset/Qlik Sense/PowerBI/Tableau), Excel (Power tools), Git, Jira/Confluence, Linux/Bash
 
 **Contact**
 - LinkedIn: **linkedin.com/in/iobryvin**
